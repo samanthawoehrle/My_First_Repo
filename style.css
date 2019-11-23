@@ -1,0 +1,21 @@
+html {
+    background-color: aquamarine;
+}
+
+h1 { font-family: 'Calistoga', cursive;
+    font-weight: 220;
+}
+
+li { font-family: 'Oswald', sans-serif;
+}
+
+p { font-family: 'Bebas Neue', cursive;
+    font-weight: 900;
+    color: blueviolet;
+    font-size: xx-large;
+}
+.kevin-img { 
+    position: absolute;
+    top: 150px;
+    left: 150px;
+}
